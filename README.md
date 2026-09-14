@@ -1054,6 +1054,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 * [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 * [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Record an agent run at the HTTP boundary to its model provider, then replay it offline with no provider called and no tokens spent.
 
 ## Business and Domain
 
