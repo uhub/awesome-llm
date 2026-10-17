@@ -498,6 +498,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant, and scalable Jax LLM!
 * [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
 * [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
+* [SIDDARTHAREDDY8/fitcheck](https://github.com/SIDDARTHAREDDY8/fitcheck) - Zero-dependency Python CLI: KV-cache-aware LLM deployment planner with FITS/TIGHT/OOM verdicts and paste-ready vLLM/llama.cpp flags.
 
 ### Machine Learning Frameworks
 
@@ -1051,6 +1052,7 @@ A curated list of awesome LLM frameworks, libraries and software.
 * [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 * [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 * [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
+* [SIDDARTHAREDDY8/guidelint](https://github.com/SIDDARTHAREDDY8/guidelint) - Zero-dependency Python CLI: preflight linter for structured-output configs (vLLM/llama.cpp/Ollama) with 23 version-aware rules and CI-friendly exit codes.
 
 ## Business and Domain
 
